@@ -3,3 +3,8 @@
 ################################################################################
 
 /Server-Service/bin/Debug
+/Server-Service/obj/Debug
+/TestHarness/obj/Debug
+/.vs/A-06/v16
+/Client/bin/Debug
+/Client/obj/Debug
